@@ -33,7 +33,7 @@ QFin is a state-of-the-art financial news Q&A application powered by LLaMA 2, de
 !npm install localtunnel
 ```
 
-Once the requirements are installed the application is launched through jupyter notebook by executing the following:
+Once the requirements are installed the application can be launched through jupyter notebook by executing the following:
 ```bash
 !curl ipv4.icanhazip.com
 ```
